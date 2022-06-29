@@ -1,8 +1,8 @@
 ### Sankalp Mahajan
 Final Year CSE, MANIT Bhopal
 
-##Trying out cool new features. 
+## Trying out cool new features. 
 
-#H1 tag?
+# H1 tag?
 
 
