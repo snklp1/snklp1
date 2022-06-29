@@ -14,7 +14,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 <br />
-
+<br />
 
 
 [![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=snklp1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
