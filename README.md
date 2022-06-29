@@ -1,4 +1,5 @@
-### Hi there 👋
+### Sankalp Mahajan
+Final Year CSE, MANIT Bhopal
 
 <!--
 **snklp1/snklp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
